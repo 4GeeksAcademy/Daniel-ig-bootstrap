@@ -1,0 +1,12 @@
+.card{
+    max-width: 600px;
+    margin: 0 auto;
+}
+.card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.card-text{
+    margin-top: -10px;
+}
